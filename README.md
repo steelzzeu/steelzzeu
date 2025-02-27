@@ -30,9 +30,6 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=steelzzeu&layout=compact&theme=dark&title_color=F7DF1E&text_color=F7DF1E&border_color=F7DF1E)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=steelzzeu&theme=dark&fire=yellow&ring=yellow&currStreakLabel=yellow)
-
-
 ---
 
 ## 🛠️ What I'm Working On

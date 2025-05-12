@@ -4,7 +4,8 @@
 
 🚀 Building **Rivals Reconstructed** (Marvel Rivals Mod Manager)  
 🛠️ Founder of **Steelzz Development**  
-🌐 Check out my website: [steelzz.com](https://steelzz.com)  
+🌐 Check out my website: [steelzz.com](https://steelzz.com)
+🌐 Check out my website: [sufkhatib.com](https://sufkhatib.com)  
 
 ---
 

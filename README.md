@@ -30,5 +30,3 @@ I love what I do, and I hope to do it till the day i die.
 <a href="http://www.github.com/steelzzeu"><img src="https://github-readme-stats.vercel.app/api?username=steelzzeu&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=facc15&icon_color=ffffff&bg_color=27272a&hide_border=true&show_icons=true" alt="steelzzeu's GitHub stats" /></a>
 
 <a href="http://www.github.com/steelzzeu"><img src="https://github-readme-streak-stats.herokuapp.com/?user=steelzzeu&stroke=facc15&background=27272a&ring=ffffff&fire=ffffff&currStreakNum=facc15&currStreakLabel=ffffff&sideNums=facc15&sideLabels=facc15&dates=facc15&hide_border=true" /></a>
-
-ProfileMe.dev | Create an amazing GitHub profile in minutes
